@@ -31,8 +31,6 @@ Our projects and workshops may include various programming languages and tools s
 - **APIs & Libraries** - Integrating external data and functionality (e.g., Flask, Node.js).
 - **Version Control** - Git & GitHub for collaborative coding and project management.
 
-Got it! Here’s a revision for the contribution section in your README file:
-
 ---
 
 ## How to Contribute 🤝
